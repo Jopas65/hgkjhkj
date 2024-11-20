@@ -19,7 +19,7 @@
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
 		"uniques": ["[+1 Happiness] from all [Production] buildings","[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [100] [Gold] <after discovering [Animal Husbandry]>","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>"],
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Animal Husbandry]>","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>"],"[+1 Piety] per every [50] [Gold] <after discovering [Animal Husbandry]>"
 
 		"cities": ["Beograd","Raska","Novi Sad","Pancevo","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",
 			"Pec","Prizren","Mitrovica","Morava","Sabac","Cacak","Nis","Pirot","Smederevo","Jagodna",
